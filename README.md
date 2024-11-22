@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://saadksioui.pro/](https://saadksioui.pro/)
 
-[comment]: <> (- 📝 I regularly write articles on [https://saadksioui.pro/blog](https://saadksioui.pro/blog))
-
 - 💬 Ask me about **anything about full stack**
 
 - 📫 How to reach me **saadksioui@gmail.com**
