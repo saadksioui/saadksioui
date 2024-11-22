@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://saadksioui.pro/](https://saadksioui.pro/)
 
-- 📝 I regularly write articles on [https://saadksioui.pro/blog](https://saadksioui.pro/blog)
+[comment]: <> (- 📝 I regularly write articles on [https://saadksioui.pro/blog](https://saadksioui.pro/blog))
 
 - 💬 Ask me about **anything about full stack**
 
