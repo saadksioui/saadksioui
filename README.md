@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saadksioui&label=Profile%20views&color=0e75b6&style=flat" alt="saadksioui" /> </p>
 
-- 🌱 I’m currently learning **Next.js**
-
 - 👨‍💻 All of my projects are available at [https://saadksioui.pro/](https://saadksioui.pro/)
 
 - 💬 Ask me about **anything about full stack**
