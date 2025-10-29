@@ -63,10 +63,8 @@
 ### 🧩 Current Focus
 
 - Building **community-driven web apps** with Next.js & MongoDB  
-- Publishing **“The Software Engineering Blueprint”** under *SkillForge*  
 - Mastering **.NET backend development**  
 - Leveling up in **German 🇩🇪 (A1 → A2)**  
-- Growing my tech brands: **DevAlchemy** & **SkillForge**
 
 ---
 
