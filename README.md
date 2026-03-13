@@ -15,10 +15,8 @@
 
 - 🚀 **Full Stack Developer** with a focus on building clean, scalable, and impactful digital solutions.  
 - 🎓 **Student at 1337 School** (42 Network – Morocco).  
-- 🌍 Currently enhancing my backend expertise with **.NET & system-level programming**.  
 - 👨‍💻 Explore all my projects at **[saadksioui.pro](https://saadksioui.vercel.app/)**  
 - 📄 Check out my resume: [SaadKsiouiCVEn.pdf](https://saadksioui.vercel.app/pdf/SaadKsiouiCVEn.pdf)  
-- 💬 Ask me about **React.js, Next.js, Node.js, and SaaS architecture**.  
 - 📫 Reach me at **saadksioui@gmail.com**
 
 ---
