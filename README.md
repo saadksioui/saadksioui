@@ -63,8 +63,7 @@
 ### 🧩 Current Focus
 
 - Building **community-driven web apps** with Next.js & MongoDB  
-- Mastering **.NET backend development**  
-- Leveling up in **German 🇩🇪 (A1 → A2)**  
+- Learning **Java Language**    
 
 ---
 
