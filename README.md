@@ -42,7 +42,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="[https://skillicons.dev/icons?i=react,nextjs,nodejs,express,typescript,tailwind,prisma,mongodb,mysql,postgres,graphql,docker,nginx,python,php,laravel,figma,git,postman](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,typescript,tailwind,prisma,mongodb,mysql,postgres,docker,c,python,php,laravel,figma,git,postman)" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,typescript,tailwind,prisma,mongodb,mysql,postgres,docker,c,python,php,laravel,figma,git,postman" />
 </p>
 
 ---
