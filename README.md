@@ -60,8 +60,8 @@
 
 ### 🧩 Current Focus
 
-- Building **community-driven web apps** with Next.js & MongoDB  
-- Learning **Java Language**    
+- Building **Web apps** with Next.js & MongoDB  
+- Learning **Java & Rust**    
 
 ---
 
