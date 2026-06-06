@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)](https://saadksioui.pro)
+[![sksioui's 42 stats](https://badge.mediaplus.ma/Kettlebells/sksioui)](https://github.com/oakoudad/badge42)
 
 <h1 align="center">👋 Hi, I'm <a href="https://saadksioui.pro" target="_blank">Saad Ksioui</a></h1>
 <h3 align="center">💻 Full Stack Developer | 1337 Student | Passionate About Building Real-World Software</h3>
