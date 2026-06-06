@@ -1,4 +1,6 @@
-[![sksioui's 42 stats](https://badge.mediaplus.ma/Kettlebells/sksioui)](https://github.com/oakoudad/badge42)
+<p align="center">
+  [![sksioui's 42 stats](https://badge.mediaplus.ma/Kettlebells/sksioui)](https://github.com/oakoudad/badge42)
+</p>
 
 <h1 align="center">👋 Hi, I'm <a href="https://saadksioui.pro" target="_blank">Saad Ksioui</a></h1>
 <h3 align="center">💻 Full Stack Developer | 1337 Student | Passionate About Building Real-World Software</h3>
@@ -48,12 +50,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=saadksioui&show_icons=true&theme=tokyonight" alt="saadksioui stats" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=saadksioui&theme=tokyonight" alt="saadksioui streak" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadksioui&layout=compact&theme=tokyonight" alt="top languages" />
 </p>
 
 ---
