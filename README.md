@@ -1,5 +1,7 @@
 <p align="center">
-  [![sksioui's 42 stats](https://badge.mediaplus.ma/Kettlebells/sksioui)](https://github.com/oakoudad/badge42)
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/Kettlebells/sksioui" alt="sksioui's 42 stats" />
+  </a>
 </p>
 
 <h1 align="center">👋 Hi, I'm <a href="https://saadksioui.pro" target="_blank">Saad Ksioui</a></h1>
