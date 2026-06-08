@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/Kettlebells/sksioui" alt="sksioui's 42 stats" />
+    <img src="https://badge.mediaplus.ma/darkblue/sksioui" alt="sksioui's 42 stats" />
   </a>
 </p>
 
