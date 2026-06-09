@@ -7,8 +7,6 @@
 <h1 align="center">👋 Hi, I'm <a href="https://saadksioui.pro" target="_blank">Saad Ksioui</a></h1>
 <h3 align="center">💻 Full Stack Developer | 1337 Student | Passionate About Building Real-World Software</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=saadksioui&label=Profile%20views&color=0e75b6&style=flat" alt="saadksioui" /> 
 </p>
