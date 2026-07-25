@@ -47,14 +47,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=saadksioui&theme=tokyonight" alt="saadksioui streak" />
-</p>
-
----
-
 ### 🧩 Current Focus
 
 - Building **Web apps** with Next.js & MongoDB  
