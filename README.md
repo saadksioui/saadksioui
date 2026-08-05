@@ -60,3 +60,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4E9F3D&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+1337+Student;Building+SaaS+%26+Open+Source+Projects;Lifelong+Learner+and+Tech+Explorer" alt="Typing SVG" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/ca16b7af-40f3-432d-b036-e0e1b816bdee/thumbnail" >
+</p>
