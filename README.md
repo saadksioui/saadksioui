@@ -61,6 +61,3 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://api.boot.dev/v1/users/public/ca16b7af-40f3-432d-b036-e0e1b816bdee/thumbnail" >
-</p>
