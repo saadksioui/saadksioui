@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">👋 Hi, I'm <a href="https://saadksioui.pro" target="_blank">Saad Ksioui</a></h1>
+<h1 align="center">👋 Hi, I'm <a href="https://saadksioui.vercel.app/" target="_blank">Saad Ksioui</a></h1>
 <h3 align="center">💻 Full Stack Developer | 1337 Student | Passionate About Building Real-World Software</h3>
 
 <p align="center"> 
@@ -17,7 +17,7 @@
 
 - 🚀 **Full Stack Developer** with a focus on building clean, scalable, and impactful digital solutions.  
 - 🎓 **Student at 1337 School** (42 Network – Morocco).  
-- 👨‍💻 Explore all my projects at **[saadksioui.pro](https://saadksioui.vercel.app/)**  
+- 👨‍💻 Explore all my projects at **[Portfolio](https://saadksioui.vercel.app/)**  
 - 📄 Check out my resume: [Resume](https://saadksioui.vercel.app/pdf/SaadKsiouiCVEn.pdf)  
 - 📫 Reach me at **saadksioui@gmail.com**
 
