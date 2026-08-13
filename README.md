@@ -50,7 +50,7 @@
 ### 🧩 Current Focus
 
 - Building **Web apps** with Next.js & MongoDB  
-- Learning **Java & Rust**    
+- Learning **Java, Go & Rust**    
 
 ---
 
