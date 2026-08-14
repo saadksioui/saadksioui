@@ -29,7 +29,7 @@
   <a href="https://linkedin.com/in/saadksioui" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
   </a>
-  <a href="https://instagram.com/thereal1saad" target="_blank">
+  <a href="https://instagram.com/s4l1x.x" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40"/>
   </a>
   <a href="mailto:saadksioui@gmail.com" target="_blank">
