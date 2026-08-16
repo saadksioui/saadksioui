@@ -4,8 +4,8 @@
   </a>
 </p>
 
-<h1 align="center">👋 Hi, I'm <a href="https://saadksioui.vercel.app/" target="_blank">Saad Ksioui</a></h1>
-<h3 align="center">💻 Full Stack Developer | 1337 Student | Passionate About Building Real-World Software</h3>
+<h1 align="center">Hi, I'm <a href="https://saadksioui.vercel.app/" target="_blank">Saad Ksioui</a></h1>
+<h3 align="center">Software Developer | 1337 Student | Passionate About Building Real-World Software</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=saadksioui&label=Profile%20views&color=0e75b6&style=flat" alt="saadksioui" /> 
@@ -13,7 +13,7 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
 - 🚀 **Full Stack Developer** with a focus on building clean, scalable, and impactful digital solutions.  
 - 🎓 **Student at 1337 School** (42 Network – Morocco).  
@@ -23,7 +23,7 @@
 
 ---
 
-### 🌐 Connect With Me
+### Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/saadksioui" target="_blank">
@@ -39,7 +39,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,typescript,tailwind,prisma,mongodb,mysql,postgres,docker,c,python,php,laravel,figma,git,postman" />
@@ -47,7 +47,7 @@
 
 ---
 
-### 🧩 Current Focus
+### Current Focus
 
 - Building **Web apps** with Next.js & MongoDB  
 - Learning **Java, Go & Rust**    
