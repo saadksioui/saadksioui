@@ -15,7 +15,7 @@
 
 ### About Me
 
-- 🚀 **Full Stack Developer** with a focus on building clean, scalable, and impactful digital solutions.  
+- 🚀 **Software Developer** with a focus on building clean, scalable, and impactful digital solutions.  
 - 🎓 **Student at 1337 School** (42 Network – Morocco).  
 - 👨‍💻 Explore all my projects at **[Portfolio](https://saadksioui.vercel.app/)**  
 - 📄 Check out my resume: [Resume](https://saadksioui.vercel.app/pdf/SaadKsiouiCVEn.pdf)  
