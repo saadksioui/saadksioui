@@ -1,63 +1,34 @@
-<p align="center">
-  <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/darkblue/sksioui" alt="sksioui's 42 stats" />
-  </a>
-</p>
+<h1 align="center">Hi 👋, I'm Saad Ksioui</h1>
+<h3 align="center">"The Future isn't user friendly...", The Matrix</h3>
 
-<h1 align="center">Hi, I'm <a href="https://saadksioui.vercel.app/" target="_blank">Saad Ksioui</a></h1>
-<h3 align="center">Software Developer | 1337 Student | Passionate About Building Real-World Software</h3>
+## 🚀 Quick Facts
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=saadksioui&label=Profile%20views&color=0e75b6&style=flat" alt="saadksioui" /> 
-</p>
+- 📍 Based in **Casablanca, Morocco**
+- 🌐 [Personal site](https://saadksioui.tech/)
 
----
 
-### About Me
+## 🛠️ Tech Stack
 
-- 🚀 **Software Developer** with a focus on building clean, scalable, and impactful digital solutions.  
-- 🎓 **Student at 1337 School** (42 Network – Morocco).  
-- 👨‍💻 Explore all my projects at **[Portfolio](https://saadksioui.vercel.app/)**  
-- 📄 Check out my resume: [Resume](https://saadksioui.vercel.app/pdf/SaadKsiouiCVEn.pdf)  
-- 📫 Reach me at **saadksioui@gmail.com**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![REST](https://img.shields.io/badge/-REST-555555?style=flat-square&logo=rest&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-555555?style=flat-square&logo=numpy&logoColor=white) ![c](https://img.shields.io/badge/-c-555555?style=flat-square&logo=c&logoColor=white) ![GO](https://img.shields.io/badge/-GO-555555?style=flat-square&logo=go&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Zsh](https://img.shields.io/badge/-Zsh-555555?style=flat-square&logo=zsh&logoColor=white)
 
----
 
-### Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/saadksioui" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
-  </a>
-  <a href="https://instagram.com/s4l1x.x" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40"/>
-  </a>
-  <a href="mailto:saadksioui@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40"/>
-  </a>
-</p>
+## 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saadksioui/)
+[![Twitter](https://img.shields.io/badge/-@s4l1xd-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/s4l1xd)
+[![Dev.to](https://img.shields.io/badge/-dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/saadksioui)
+[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@saadks2004o)
+[![Email](https://img.shields.io/badge/-saadksioui%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:saadksioui@gmail.com)
+
+
+## 📊 GitHub Stats
+
+![saadksioui's GitHub stats](https://github-readme-stats.vercel.app/api?username=saadksioui&show_icons=true&theme=dracula&hide_border=true&count_private=true)
+&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saadksioui&layout=compact&theme=dracula&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=saadksioui&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
-### Languages & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,typescript,tailwind,prisma,mongodb,mysql,postgres,docker,c,python,php,laravel,figma,git,postman,go" />
-</p>
-
----
-
-### Current Focus
-
-- Building **Web apps** with Next.js & MongoDB  
-- Learning **Java, Go & Rust**    
-
----
-
-<h3 align="center">Code. Learn. Build. Inspire.</h3>
-<p align="center">
-  <a href="https://saadksioui.vercel.app/" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4E9F3D&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+1337+Student;Building+SaaS+%26+Open+Source+Projects;Lifelong+Learner+and+Tech+Explorer" alt="Typing SVG" />
-  </a>
-</p>
-
+<p align="center">Made with ❤️ by Saad Ksioui</p>
